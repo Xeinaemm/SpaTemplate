@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\SpaTemplate.Contracts.Api\SpaTemplate.Contracts.Api.csproj" />
+    <ProjectReference Include="..\SpaTemplate.Core\SpaTemplate.Core.csproj" />
+    <ProjectReference Include="..\SpaTemplate.Infrastructure\SpaTemplate.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>

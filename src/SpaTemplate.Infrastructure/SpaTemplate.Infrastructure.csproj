@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <IsPackable>False</IsPackable>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\SpaTemplate.Contracts\SpaTemplate.Contracts.csproj" />
+    <ProjectReference Include="..\SpaTemplate.Core\SpaTemplate.Core.csproj" />
+  </ItemGroup>
+
+</Project>

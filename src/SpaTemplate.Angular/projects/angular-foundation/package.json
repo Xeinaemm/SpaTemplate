@@ -1,0 +1,27 @@
+{
+	"name": "angular-foundation",
+	"version": "0.0.1",
+	"author": "Piotr Czech",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Xeinaemm/angular-foundation"
+	},
+	"description": "Simple example how to build a library",
+	"peerDependencies": {
+		"@angular/material": ">6.0.0",
+		"@angular/cdk": ">6.0.0",
+		"@angular/animations": ">6.0.0",
+		"@angular/common": ">6.0.0",
+		"@angular/compiler": ">6.0.0",
+		"@angular/core": ">6.0.0",
+		"@angular/forms": ">6.0.0",
+		"@angular/http": ">6.0.0",
+		"@angular/platform-browser": ">6.0.0",
+		"@angular/platform-browser-dynamic": ">6.0.0",
+		"@angular/router": ">6.0.0",
+		"core-js": ">2.0.0",
+		"rxjs": ">5.0.0",
+		"zone.js": ">0.7.0"
+	}
+}

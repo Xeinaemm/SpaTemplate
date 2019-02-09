@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <PackageReference Include="CrystalQuartz.AspNetCore" Version="6.8.1"/>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\SpaTemplate.Infrastructure\SpaTemplate.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,5 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\SpaTemplate.Infrastructure.Api\SpaTemplate.Infrastructure.Api.csproj" />
+  </ItemGroup>
+</Project>
